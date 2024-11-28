@@ -2,7 +2,7 @@ Monspace text layout engine.
 
 This was a fun side project for me, not likely something I'll develop much further.
 
-Requires Deno to run, currently no standalone compiled release, though I'll fis that in a bit.
+Requires Deno to run, currently no standalone compiled release, though I'll fix that in a bit.
 Run `deno install`, then `deno main.ts` to view all available commands.
 
 Supports left, center, right, and justify alignment.
